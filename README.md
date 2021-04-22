@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Find me :earth_americas:
 [![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][1]
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+[![linkedin](file:///D:/miret/Downloads/linkedin.svg)
 
 [1]: https://www.linkedin.com/in/mirette-amin-439b0281/
 [2]: https://www.facebook.com/miretteamindanial/
