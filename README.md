@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a self learner, science and mathematics geek who's in intersered in artificial inteliigence and new technologoes also, I have a youtube channel, [Check it out!!](https://www.youtube.com/channel/UCZvWQXR6esqwPouDn7-NCkg)
 <!--
 **miretteamin/miretteamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimiretteaminanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
