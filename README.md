@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 ###Find me :earth_americas:
-[facebook]
+<?php echo do_shortcode("[smbtoolbar]"); ?>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
