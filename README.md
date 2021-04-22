@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][1]
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
+[![linkedin](<blockquote class="imgur-embed-pub" lang="en" data-id="a/q63QSE5"  ><a href="//imgur.com/a/q63QSE5">Linkedin Icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)][3]
+
 [1]: https://www.facebook.com/miretteamindanial/
 [2]: https://www.linkedin.com/in/mirette-amin-439b0281/
 
