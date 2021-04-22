@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 ### Find me :earth_americas:
-<?php echo do_shortcode("[Facebook]"); ?>
+- name: add social icons
+  uses: elangosundar/social-ai@master
+  with:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    social-icons: '[{ "socialName": "facebook", "miretteamindanial": "elango_sundar"},{ "socialName": "linkedin", "mirettamin": "elango_sundar"}]'
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
