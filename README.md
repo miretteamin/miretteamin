@@ -24,15 +24,12 @@ Here are some ideas to get you started:
 <!--[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/miretteamin)-->
 <a href="https://www.kaggle.com/miretteamin"> <i class="fab fa-kaggle"></i></a>
 
-[1]: https://www.facebook.com/miretteamindanial/
-[2]: https://www.linkedin.com/in/mirette-amin-439b0281/
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=miretteamin&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
  
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miretteamin&layout=compact&theme=react&count_private=false" />
 </div>
