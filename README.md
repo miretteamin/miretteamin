@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
 <!--[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/miretteamin)-->
-<i class="fa-brands fa-kaggle" href="https://www.kaggle.com/miretteamin">></i>
+<a href="https://www.kaggle.com/miretteamin"> <i class="fa-brands fa-kaggle"></i></a>
 
 [1]: https://www.facebook.com/miretteamindanial/
 [2]: https://www.linkedin.com/in/mirette-amin-439b0281/
