@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-244&layout=compact&theme=react&count_private=false" />
+</div>
