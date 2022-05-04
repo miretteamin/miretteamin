@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-
+ ## Find me 🌎
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.linkedin.com/in/mirette-amin-439b0281/)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mirette-amin-439b0281/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:miretteamin@gmail.com)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/miretteamin)
+<i class="fa-brands fa-kaggle" href="https://www.kaggle.com/miretteamin">></i>
 
 [1]: https://www.facebook.com/miretteamindanial/
 [2]: https://www.linkedin.com/in/mirette-amin-439b0281/
