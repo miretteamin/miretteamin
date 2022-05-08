@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:miretteamin@gmail.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
-<!--[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/miretteamin)-->
 <a href="https://www.kaggle.com/miretteamin"> <i class="fab fa-kaggle"></i></a>
+<!--[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/miretteamin)-->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
