@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a self learner, science and mathematics geek who's intersered in artificial inteliigence and new technologies also, I have a youtube channel, [Check it out!!](https://www.youtube.com/channel/UCZvWQXR6esqwPouDn7-NCkg)
 <!--
