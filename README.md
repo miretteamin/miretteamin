@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 </div>
  
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miretteamin&layout=compact&theme=react&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
 </div>
