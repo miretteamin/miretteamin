@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:miretteamin@gmail.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
+<div style = "width:25px">
  <a href="https://www.kaggle.com/miretteamin"> ![Kaggle_logo](https://user-images.githubusercontent.com/29145628/169889563-7cb7ae38-1058-4480-9489-7a0b62c19870.png)
-
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
