@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
 <p>
- <a href="https://www.kaggle.com/miretteamin"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="448" width="448">
+ <a href="https://www.kaggle.com/miretteamin"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="48" width="48">
   </p>
 
 
