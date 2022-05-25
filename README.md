@@ -6,15 +6,17 @@ I'm a self learner, science and mathematics geek who's intersered in artificial 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying machine learning and computer vision
+- ⚡ Fun Fact: "Cette visite est comptée!!" Merci :blush:
+![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
+
  ## Find me 🌎
  
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/miretteamindanial)
@@ -23,8 +25,6 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
 <a href="https://www.kaggle.com/miretteamin"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="40" width="68"><br>
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
