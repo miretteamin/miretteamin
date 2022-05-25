@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=miretteamin&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
