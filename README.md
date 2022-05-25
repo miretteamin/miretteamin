@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m currently studying machine learning and computer vision
-- ⚡ Fun Fact: "Cette visite est comptée!!" Merci :blush:
+- ⚡ Fun Fact: "Cette visite est comptée!!" Merci :blush: <br>
 ![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
 
  ## Find me 🌎
