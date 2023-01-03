@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently studying machine learning and computer vision
+- 🔭 I’m currently studying Computer Vision and GNNs
 - 😄 Pronouns: She/Her
 - ⚡ Fun Fact: "Cette visite est comptée!!" Merci :blush: <br>
 ![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
