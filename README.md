@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  ## Find me 🌎
  
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/miretteamindanial)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mirette-amin-439b0281/)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mirette-moawad-439b0281/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:miretteamin@gmail.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/miretteamin)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/miretteamin/)
