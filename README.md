@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <a href="https://www.kaggle.com/miretteamin"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="40" width="68"><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
 
 <!--![github activity graph](https://activity-graph.herokuapp.com/graph?username=miretteamin&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)-->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
