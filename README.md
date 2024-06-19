@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🔭 I’m currently studying Computer Vision and GNNs
-- ⚡ Fun Fact: "Cette visite est comptée!!" Merci :blush: <br>
+- "Cette visite est comptée!!" Merci :blush: <br>
+## ⚡ Fun Fact: 
 ![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
 
  ## Find me 🌎
