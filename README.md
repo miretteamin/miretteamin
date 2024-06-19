@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying Computer Vision and GNNs
 - "Cette visite est comptée!!" Merci :blush: <br>
-## ⚡ Fun Fact: 
+<!––⚡ Fun Fact:-->
 ![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
 
  ## Find me 🌎
