@@ -1,31 +1,32 @@
-# Hi there 👋
+# Hi there 👋 I'm Mirette Moawad
 
-I'm a self learner, science and mathematics geek who's intersered in artificial inteliigence and new technologies also, I have a youtube channel, [Check it out!!](https://www.youtube.com/channel/UCZvWQXR6esqwPouDn7-NCkg)
-<!--
-**miretteamin/miretteamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-learner who loves **Science**, **Maths**, **AI**, and… **Robots** 🤖👀  
+I also share some of my old & fun robots 👻 on YouTube: **[Check it out!!](https://www.youtube.com/channel/UCZvWQXR6esqwPouDn7-NCkg)**
 
-Here are some ideas to get you started:
+## 🔭 Current status
+- MScT in **Artificial Intelligence at École Polytechnique (L'X)**.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-- 🔭 I’m currently studying Computer Vision and GNNs
-- "Cette visite est comptée!!" Merci :blush: <br>
-![Visitor Count](https://profile-counter.glitch.me/miretteamin/count.svg)
+## 🎯 Interests
+- Deep Learning • Representation Learning  
+- Transformers • Detection/Segmentation  
+- Graph Neural Networks 
 
- ## Find me 🌎
- 
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/miretteamindanial)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mirette-amin-439b0281/)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:miretteamin@gmail.com)
-<a href="https://www.kaggle.com/miretteamin"> <img src="https://user-images.githubusercontent.com/29145628/169890853-30aa8606-54cc-4e75-b93a-dc3ac6a8b37c.png" height="40" width="68"><br>
+## 🤖 My “robot mindset”
+**Curiosity first… then code, right?** 👀✨  
+Sometimes the model converges. Sometimes it just *stares back*.
+
+## 🧠 A tiny origin story
+- I started programming at **age 12**, building simple robots with a **LEGO Mindstorms RCX2** kit 🤖  
+- Then I taught myself **C++** and **C#** (and later: lots of Python 🐍)
 
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
+## 🌎 Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirettemoawad/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/miretteamin)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/miretteamindanial)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miretteamin@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--7572--3410-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7572-3410)
 
-<!--![github activity graph](https://activity-graph.herokuapp.com/graph?username=miretteamin&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)-->
- 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)
