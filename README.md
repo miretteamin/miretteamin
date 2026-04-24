@@ -16,8 +16,8 @@ I also share some of my old & fun robots 👻 on YouTube: **[Check it out!!](htt
 Sometimes the model converges. Sometimes it just *stares back*.
 
 ## 🧠 A tiny origin story
-- I started programming at **age 12**, building simple robots with a **LEGO Mindstorms RCX2** kit 🤖  
-- Then I taught myself **C++** and **C#** (and later: lots of Python 🐍)
+I started programming at **age 12**, building simple robots with a **LEGO Mindstorms RCX2** kit and **LEGO Mindstorms EV3** 🤖
+Then I taught myself **C++** and **C#** (and later: lots of Python 🐍)
 
 
 ## 🌎 Find me
