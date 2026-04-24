@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mirette Moawad
 
 I'm a self-learner who loves **Science**, **Maths**, **AI**, and… **Robots** 🤖👀  
-I also share some of my old & fun robots 👻 on YouTube: **[Check it out!!](https://www.youtube.com/channel/UCZvWQXR6esqwPouDn7-NCkg)**
+I also share some of my old & fun robots 👻 on YouTube: **[Check it out!!](https://www.youtube.com/@mirettemoawad)**
 
 ## 🔭 Current status
 - MScT in **Artificial Intelligence at École Polytechnique (L'X)**.
