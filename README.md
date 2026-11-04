@@ -30,8 +30,8 @@ Then I taught myself **C++** and **C#** (and later: lots of Python 🐍)
 ## 📊 GitHub stats
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6)
-![Snake animation](https://github.com/miretteamin/miretteamin/blob/output/github-contribution-grid-snake.svg)
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=miretteamin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--![Snake animation](https://github.com/miretteamin/miretteamin/blob/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miretteamin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Mirette's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miretteamin&theme=react-dark)](https://github.com/ashutosh0071/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=miretteamin&theme=dark)](https://git.io/streak-stats)
  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=miretteamin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
