@@ -28,5 +28,5 @@ Then I taught myself **C++** and **C#** (and later: lots of Python 🐍)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--7572--3410-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7572-3410)
 
 ## 📊 GitHub stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6&hide=xslt)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=miretteamin&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=miretteamin&theme=radical&langs_count=6)
